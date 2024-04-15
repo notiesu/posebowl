@@ -1,0 +1,3 @@
+- Create benchmarks and performance measures
+- Look into building on docker or sending precompiled binaries
+- Test on docker image
